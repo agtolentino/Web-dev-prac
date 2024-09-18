@@ -1,2 +1,2 @@
 # Web-dev-prac
-Webdev Learning Projects
+Webdev Learning Projects for Coursera
